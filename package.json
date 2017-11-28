@@ -1,0 +1,23 @@
+{
+  "name": "jest-tothrow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvisvoer/jest-tothrow.git"
+  },
+  "author": "Elvis Adomnica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elvisvoer/jest-tothrow/issues"
+  },
+  "homepage": "https://github.com/elvisvoer/jest-tothrow#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
